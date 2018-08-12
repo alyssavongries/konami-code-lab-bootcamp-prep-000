@@ -19,7 +19,7 @@ const codes = [
       index++;
     }
     if(index === codes.length){
-        alert("Yes!");
+        alert(`Yes!`);
         index = 0;
     }else{
       index = 0;
