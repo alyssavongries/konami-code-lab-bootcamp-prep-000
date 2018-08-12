@@ -27,5 +27,5 @@ const codes = [
     })
  }
  
- init()
+ init();
  
