@@ -17,12 +17,12 @@ const codes = [
     const key = e.key;
     if (key === codes[index]){
       index++;
+    } else{
+      index = 0;
     }
     if(index === codes.length){
         alert('Yes!');
         index = 0;
-    }else{
-      index = 0;
     }
     })
  }
