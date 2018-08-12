@@ -27,5 +27,4 @@ const codes = [
     })
  }
  
- init();
  
